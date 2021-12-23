@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	
+	background:url(img/fone.jpg);
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+
+}
+.BG{
+	widht: 100vw;
+	overflow: hidden;
+	height: 100vh;
+}
+.BG img{
+	width: 100%;
+	height: 100%;
+}
